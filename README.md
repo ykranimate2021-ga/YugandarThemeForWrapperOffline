@@ -29,4 +29,13 @@ FEEL FREE TO INSTALL IT!
 The Animation Of My Theme Will Be On The "YugandarAnimationPreview" FOLDER On GitHub!
 
 Go To Code
-Go To "Download Zip" In Order For You To Preview It If You Want The HTML Version It Will Come Soon On GitHub Pages!
+Go To "Download Zip" In Order For You To Preview It If You Want The HTML Version Of The GitHub Pages Here's The Link
+
+
+https://ykranimate2021-ga.github.io/YugandarThemeForWrapperOffline/
+
+
+This Is A Embed Video Code On YouTube Of The Same Animation Video
+
+Go To This URL And Watch The Animation!
+
