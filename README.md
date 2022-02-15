@@ -27,3 +27,6 @@ FEEL FREE TO INSTALL IT!
 
 
 The Animation Of My Theme Will Be On The "YugandarAnimationPreview" FOLDER On GitHub!
+
+Go To Code
+Go To "Download Zip" In Order For You To Preview It If You Want The HTML Version It Will Come Soon On GitHub Pages!
